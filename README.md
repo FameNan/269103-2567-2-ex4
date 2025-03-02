@@ -34,9 +34,21 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
-
+1.1 cd command or change directory
+** This command is used to change the directory or folder in the current working directory in various operating systems.
+** Because it's essential when you want to change your directory, and it is a basic cammand you must to know before learning others.
+   Examples for using: 
+   -->cd /home/user/Documents : will move to the Documents folder located at the /home/user/ path.
+   -->cd .. : will move to the previous folder.
+   -->cd ~ : will move to the home folder of the user.
+1.2 ls command or list
+** This command is used to show files or folders in the current directory, except hidden files (lists files)
+** Because, After using the cd command to navigate to the directory and wanting to find files or folders to read, change or edit, you need to use the 'ls' command to see all the files in your current directory.
+   Examples for using:
+   -->ls will show (list) files and folders in the current directory.
+   -->ls -l will show more details about each file and folder.
+   -->ls -a will show all files, including hidden files (files that start with a dot '.' such as .bashrc) 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+My advice for prospective ISNE students is that you should at least have a basic knowledge of computers or an interest in them. If not, you might not enjoy being here. ISNE is taught in English, so if you’re good at English, it’s suit for you. But if you're not, don’t worry, because every professor and your friends will help you with your studies. Your English will improve, just like mine did. Sometimes, when you study, it may be hard to understand or you might not catch everything in real-time, but you can always read the materials after class to better understand what the professor taught. Sometimes, we must challenge ourselves to improve in the best way. If we stay in our comfort zone, we will never get better.
